@@ -1,0 +1,3 @@
+include ':OpenCV341'
+include ':app'
+rootProject.name = "Color blob detect"
